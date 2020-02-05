@@ -5,7 +5,8 @@ This document describes the process.
 
 ##I used these resorces:
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+
+[This notebook GitHub](https://github.com/dzlab/deepprojects/blob/master/nlp/ULMFiT_Arabic_LM.ipynb)
+
 
 
